@@ -1,0 +1,1 @@
+This is a code along guide for the materialize CSS framework covered during the `Matereialize CSS From Scratch` Udemy Course found here: https://www.udemy.com/materialize-css-from-scratch-with-5-projects/
